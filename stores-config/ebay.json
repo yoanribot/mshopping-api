@@ -1,0 +1,16 @@
+{
+  "SANDBOX": {
+    "clientId": "YoanRibo-tshoppin-SBX-fa5abeab0-b8b6ec3b",
+    "clientSecret": "SBX-a5abeab03b4d-e53a-47d5-9120-4918",
+    "devid": "f5c769da-714b-437b-856c-9c6f4c14748c",
+    "redirectUri": "-- redirect uri ---",
+    "baseUrl": "api.sandbox.ebay.com"
+  },
+  "PRODUCTION": {
+    "clientId": "---Client Id---",
+    "clientSecret": "--- client secret---",
+    "devid": "-- dev id ---",
+    "redirectUri": "-- redirect uri ---",
+    "baseUrl": "api.ebay.com"
+  }
+}
